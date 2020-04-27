@@ -4,6 +4,14 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// For Amplify
+// import Amplify from 'aws-amplify'
+// import config from './aws-exports'
+
+// Amplify.configure(config)
+
+// For Amplify
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

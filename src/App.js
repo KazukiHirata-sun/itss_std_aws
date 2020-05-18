@@ -6,7 +6,6 @@ import Notes from './components/Notes'
 
 // For Amplify
 // import { API, graphqlOperation } from 'aws-amplify'
-// import { withAuthenticator } from 'aws-amplify-react'
 
 // import { createNote, updateNote, deleteNote } from './graphql/mutations'
 // import { listNotes } from './graphql/queries'
